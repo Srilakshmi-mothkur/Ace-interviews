@@ -46,7 +46,7 @@ function RecordAnswerSection() {
         
                 {isRecording?
                 <h2 className='text-red-600'>
-                    <Mic/>'Stop Recording'
+                    <Mic/>'StopRecording'
                 </h2>
                 : 
                 'Record Answer'}</Button>
